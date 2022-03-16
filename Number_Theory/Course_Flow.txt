@@ -19,3 +19,5 @@
 </Questions>
 *--*-->Fibonacci Finding(HackerRank)
 -------------------------------------------------------------------------------------------
+6.Euclid Division Algorithm
+---Finding gcd(HCF)
