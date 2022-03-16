@@ -22,4 +22,4 @@
 6.Euclid Division Algorithm
 ---Finding gcd(HCF)
 </Questions>
-*--*-->GCD Queries
+*--*-->GCD Queries(Codechef)
