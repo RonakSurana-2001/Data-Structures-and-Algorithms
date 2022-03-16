@@ -6,6 +6,9 @@
 *--*-->Finding kth prime(SPOJ)
 *--*-->Prime Interval(Hackerearth Problem)
 *--*-->Micro and Prime Prime(Hackerearth Problem)
+-------------------------------------------------------------------------------------------
 2.Prime Factorization
--->sqrt time complexity
+-->sqrt N time complexity
+-->Prime Factorization using seive  O(logN)
+-------------------------------------------------------------------------------------------
 3.Binary Exponentiation
