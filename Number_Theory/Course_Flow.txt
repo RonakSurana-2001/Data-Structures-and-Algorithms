@@ -1,0 +1,7 @@
+1.Primality Test
+-->Naive approach
+-->using seive of eratosthenes
+
+*--*-->Primality Test(Codechef)
+*--*-->Finding kth prime
+2.
