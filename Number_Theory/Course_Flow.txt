@@ -1,7 +1,7 @@
 1.Primality Test
 -->Naive approach
 -->using seive of eratosthenes
-
+</Questions>
 *--*-->Primality Test(Codechef)
 *--*-->Finding kth prime(SPOJ)
 *--*-->Prime Interval(Hackerearth Problem)
@@ -12,3 +12,6 @@
 -->Prime Factorization using seive  O(logN)
 -------------------------------------------------------------------------------------------
 3.Binary Exponentiation
+-------------------------------------------------------------------------------------------
+4.Matrix Exponentiation
+-------------------------------------------------------------------------------------------
