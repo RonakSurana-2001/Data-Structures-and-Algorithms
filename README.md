@@ -1,2 +1,2 @@
-# Number-Theory-DSA
-This is for number theory topic of DSA.
+#Data Structures and Algorithms
+This is a series for Data Structures and Algorithms.
