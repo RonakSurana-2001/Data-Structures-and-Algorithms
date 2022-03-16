@@ -3,5 +3,9 @@
 -->using seive of eratosthenes
 
 *--*-->Primality Test(Codechef)
-*--*-->Finding kth prime
-2.
+*--*-->Finding kth prime(SPOJ)
+*--*-->Prime Interval(Hackerearth Problem)
+*--*-->Micro and Prime Prime(Hackerearth Problem)
+2.Prime Factorization
+-->sqrt time complexity
+3.Binary Exponentiation
