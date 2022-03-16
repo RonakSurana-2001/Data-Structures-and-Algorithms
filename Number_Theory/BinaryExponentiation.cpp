@@ -22,4 +22,5 @@ int main()
 {
     ll a,n;cin>>a>>n;
     ll result=power(a,n);
+    cout<<result<<endl;
 }
