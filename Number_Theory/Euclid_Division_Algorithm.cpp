@@ -1,15 +1,19 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-void gcd(int a,int b)
+int gcd(int a, int b)
 {
-    if(b==0)
+    if (b == 0)
     {
-        cout<<a<<endl;
+        cout << a << endl;
     }
-    gcd(b,a%b);
+    else
+    {
+        return gcd(b, a % b);
+    }
 }
 int main()
 {
-    int num1,num2;cin>>num1>>num2;
-    gcd(num1,num2);
+    int num1, num2;
+    cin >> num1 >> num2;
+    cout << gcd(num1, num2) << endl;
 }

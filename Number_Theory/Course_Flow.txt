@@ -23,3 +23,9 @@
 ---Finding gcd(HCF)
 </Questions>
 *--*-->GCD Queries(Codechef)
+-------------------------------------------------------------------------------------------
+7.Modular Arthematic
+</Questions>
+*--*-->Arphas hard exam and mehardad's naive cheat
+*--*-->Modular GCD (Codechef)
+-------------------------------------------------------------------------------------------
