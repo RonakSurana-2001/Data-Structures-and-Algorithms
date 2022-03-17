@@ -8,7 +8,7 @@
   
 
 ## Resources:  
-CodeNCode:  
+CodeNCode for Number Theory:
 https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG  
-Aditya Verma:  
+Aditya Verma for Recursion:  
 https://www.youtube.com/c/AdityaVermaTheProgrammingLord
