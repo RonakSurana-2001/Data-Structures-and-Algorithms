@@ -25,8 +25,11 @@
 *--*-->GCD Queries(Codechef)
 -------------------------------------------------------------------------------------------
 7.Modular Arthematic
--->Modular_Arthematic
+-->Modular_Arthematic pdf
 </Questions>
 *--*-->Arphas hard exam and mehardad's naive cheat(Codeforces)
 *--*-->Modular GCD (Codechef)
--------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+8.Modulo Multiplicative Inverse
+-->Modulo Multiplicative Inverse pdf
+-->Finding_Modulo_Inverse.cpp
