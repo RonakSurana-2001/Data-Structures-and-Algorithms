@@ -27,6 +27,6 @@
 7.Modular Arthematic
 -->Modular_Arthematic
 </Questions>
-*--*-->Arphas hard exam and mehardad's naive cheat
+*--*-->Arphas hard exam and mehardad's naive cheat(Codeforces)
 *--*-->Modular GCD (Codechef)
 -------------------------------------------------------------------------------------------
