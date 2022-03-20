@@ -35,3 +35,5 @@
 -->Modulo Multiplicative Inverse pdf
 -->Finding_Modulo_Inverse.cpp
 ------------------------------------------------------------------------------------------
+9.Binomial Coefficient using modulo inverse
+------------------------------------------------------------------------------------------
