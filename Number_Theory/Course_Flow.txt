@@ -10,6 +10,7 @@
 2.Prime Factorization
 -->sqrt N time complexity
 -->Prime Factorization using seive  O(logN)
+-->Total divisors from prime factorization 
 -------------------------------------------------------------------------------------------
 3.Binary Exponentiation
 -------------------------------------------------------------------------------------------
@@ -33,3 +34,4 @@
 8.Modulo Multiplicative Inverse
 -->Modulo Multiplicative Inverse pdf
 -->Finding_Modulo_Inverse.cpp
+------------------------------------------------------------------------------------------
