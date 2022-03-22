@@ -1,11 +1,20 @@
 1.Primality Test
 -->Naive approach
 -->using seive of eratosthenes
+*****************************
+-->What is Segmented Seive?
+-->Introduction to Determinisitic and non-Deterministic Primality Test?
+     -->Fermet Primality Test
+     -->Miller-Rabin Primality Test
+
 </Questions>
 *--*-->Primality Test(Codechef)
 *--*-->Finding kth prime(SPOJ)
 *--*-->Prime Interval(Hackerearth Problem)
 *--*-->Micro and Prime Prime(Hackerearth Problem)
+************************************************
+-->Prime Generator (SPOJ)
+-->Queries about Numbers(Codechef)
 -------------------------------------------------------------------------------------------
 2.Prime Factorization
 -->sqrt N time complexity
