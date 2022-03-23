@@ -6,7 +6,6 @@
 -->Introduction to Determinisitic and non-Deterministic Primality Test?
      -->Fermet Primality Test
      -->Miller-Rabin Primality Test
-
 </Questions>
 *--*-->Primality Test(Codechef)
 *--*-->Finding kth prime(SPOJ)
@@ -48,3 +47,12 @@
 ------------------------------------------------------------------------------------------
 10.Eulers Totient Function
 ------------------------------------------------------------------------------------------
+11.Extended Euclidean Algorithm and Linear Diophantine Equation
+<Questions>
+*--*-->Crucial Equation(SPOJ)
+*--*-->Get AC in one go Upload(Codechef)
+------------------------------------------------------------------------------------------
+12.Chinese Remainder Theorm
+13.Wilson's Theorm
+14.Calculating Huge Powers modulo some Prime
+*---*-->Exponentiation II CSES
