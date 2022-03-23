@@ -10,5 +10,5 @@
 ## Resources:  
 CodeNCode:  
 https://www.youtube.com/c/CodeNCode  
-Aditya Verma for Recursion:  
+Aditya Verma:  
 https://www.youtube.com/c/AdityaVermaTheProgrammingLord
