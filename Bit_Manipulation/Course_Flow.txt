@@ -1,0 +1,12 @@
+-->How to check ith bit is set or not
+-->How to set the ith bit
+-->Left and right shift
+-->counting number of set bits using right shift
+Number of 1 bits(leetcode)
+counting bits(leetcode)
+power of two(leetcode)
+-->XOR and its properties
+       A^A=0
+       A^0=A
+       a^b^c=(a^b)^c=a^(b^c)
+XOR Queries on subarray
