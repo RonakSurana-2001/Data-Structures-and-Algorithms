@@ -5,6 +5,7 @@
 
 1.Number Theory  
 2.Bit Manipulation  
+3.Sorting Algorithms
   
 
 ## Resources:  
