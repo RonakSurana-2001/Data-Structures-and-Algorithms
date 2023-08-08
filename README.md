@@ -15,5 +15,5 @@ Aditya Verma:
 https://www.youtube.com/c/AdityaVermaTheProgrammingLord  
 
 ## Computer Fundamentals:  
-**OOPS**:https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw  
-**DBMS**:https://drive.google.com/drive/u/2/folders/1LhKNjokCBscv736vEhET2URxPDI7JYlb
+**OOPS**: https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw  
+**DBMS**: https://drive.google.com/drive/u/2/folders/1LhKNjokCBscv736vEhET2URxPDI7JYlb
