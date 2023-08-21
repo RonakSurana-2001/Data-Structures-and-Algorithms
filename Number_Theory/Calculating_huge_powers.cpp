@@ -1,4 +1,8 @@
 //m must be prime
+//a^(b^c) %M 
+// res1=(b^c)%(M-1)
+// (a^res1)%M
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
