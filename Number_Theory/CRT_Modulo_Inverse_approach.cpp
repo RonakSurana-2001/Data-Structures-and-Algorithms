@@ -1,3 +1,11 @@
+//x is congruent a1(mod m1)
+//x is congruent a2(mod m2)
+//....
+//Find X?
+//Formula:=> x=((a1*M1*(M1)^(-1))+(a2*M2*(M2)^(-1))+...)%M;
+//M=m1*m2*m3*..
+//M1=M/m1;
+
 #include <bits/stdc++.h>
 using namespace std;
 int inv(int a, int m)
